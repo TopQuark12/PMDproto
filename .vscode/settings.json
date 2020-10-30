@@ -1,0 +1,8 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "hal.h": "c",
+        "cmath": "c",
+        "cstdlib": "c"
+    }
+}
